@@ -1,0 +1,36 @@
+---
+title: "Homework 9"
+output: html_document
+author: "Your Name"
+---
+
+
+## Data Analysis
+
+Read the case study
+  - https://www.opencasestudies.org/ocs-bp-opioid-rural-urban/
+  
+We will be practicing writing the sections of a data analysis using this case study as an example. You are not required to do new analysis for this write-up! 
+You can use the existing analysis and simply write the paper around the analysis given. You should shoot for between 2 and 5 pages of writing for this assignment,
+so think a short form research article. 
+  
+### Abstract
+
+Delete this text and write an abstract for the analysis in the case study for an applied journal using the Nature template. 
+
+### Introduction
+
+Delete this text and write an introduction for the analysis in the case study
+
+### Results
+
+Delete this text and write a results section for the analysis in the case study 
+
+### Methods
+
+Delete this text and write a methods section for the analysis in the case study 
+
+### Conclusions and discussion
+
+Delete this text and write a conclusions and discussion section for the analysis in the case study  
+
